@@ -1,50 +1,62 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="FQzsUkJy4s2PngIqjm3l">
-    <mxGraphModel dx="794" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IvZY7sJz0M0mKLt6pNuV-1" target="IvZY7sJz0M0mKLt6pNuV-2">
+        <mxCell id="IvZY7sJz0M0mKLt6pNuV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IvZY7sJz0M0mKLt6pNuV-1" target="IvZY7sJz0M0mKLt6pNuV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="IvZY7sJz0M0mKLt6pNuV-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="374" y="30" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IvZY7sJz0M0mKLt6pNuV-2" target="IvZY7sJz0M0mKLt6pNuV-7">
+        <mxCell id="IvZY7sJz0M0mKLt6pNuV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IvZY7sJz0M0mKLt6pNuV-2" target="IvZY7sJz0M0mKLt6pNuV-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-2" value="Leer A, B&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IvZY7sJz0M0mKLt6pNuV-2" value="Leer numero1, numero2&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-4" value="mayor de dos números, siempre asumiendo que los dos números son&lt;br/&gt;distintos." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="30" width="290" height="60" as="geometry" />
+        <mxCell id="IvZY7sJz0M0mKLt6pNuV-4" value="mayor de dos números, siempre asumiendo que los dos números son&lt;br&gt;distintos.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Leer numero1 y numero2&lt;/div&gt;&lt;div&gt;validar si numero1 es mayor a numero2&lt;/div&gt;&lt;div&gt;si numero1 es mayor que numero2 mostrar &quot;Numero1 es mayor que numero2&quot;&lt;/div&gt;&lt;div&gt;Si numero1 es menor a numero2 mostrar &quot;Numero2 es mayor que numero1&quot;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="30" width="290" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IvZY7sJz0M0mKLt6pNuV-7" target="IvZY7sJz0M0mKLt6pNuV-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IvZY7sJz0M0mKLt6pNuV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=-0.048;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IvZY7sJz0M0mKLt6pNuV-7" target="XcdPE_NweGiIXxX9xlf_-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IvZY7sJz0M0mKLt6pNuV-7" target="IvZY7sJz0M0mKLt6pNuV-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IvZY7sJz0M0mKLt6pNuV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IvZY7sJz0M0mKLt6pNuV-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-7" value="A&amp;gt;B" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="290" width="80" height="80" as="geometry" />
+        <mxCell id="IvZY7sJz0M0mKLt6pNuV-7" value="numero1&amp;gt;numero2" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="334" y="290" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-9" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="IvZY7sJz0M0mKLt6pNuV-9" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-10" value="Mostrar B es mayor a A" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="514" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="IvZY7sJz0M0mKLt6pNuV-13" value="SI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-13" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="380" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IvZY7sJz0M0mKLt6pNuV-14" target="IvZY7sJz0M0mKLt6pNuV-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-14" value="Mostrar A es mayor a B" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IvZY7sJz0M0mKLt6pNuV-16" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IvZY7sJz0M0mKLt6pNuV-16" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="374" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XcdPE_NweGiIXxX9xlf_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XcdPE_NweGiIXxX9xlf_-1" target="IvZY7sJz0M0mKLt6pNuV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcdPE_NweGiIXxX9xlf_-1" value="Mostrar &quot;Numero 2 es mayor a numero 1&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="430" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XcdPE_NweGiIXxX9xlf_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.472;exitY=1.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XcdPE_NweGiIXxX9xlf_-2" target="IvZY7sJz0M0mKLt6pNuV-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="483" />
+              <mxPoint x="170" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcdPE_NweGiIXxX9xlf_-2" value="Mostrar &quot;Numero 1 es mayor a numero 2&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="260" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
