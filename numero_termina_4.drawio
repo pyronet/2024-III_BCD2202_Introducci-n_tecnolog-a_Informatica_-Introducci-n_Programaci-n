@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="HG2qWWlhHJzmP0VMKUhW">
-    <mxGraphModel>
+    <mxGraphModel dx="1034" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o6Lhu-sKrWzqQG50K0nG-1" target="o6Lhu-sKrWzqQG50K0nG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o6Lhu-sKrWzqQG50K0nG-2" target="o6Lhu-sKrWzqQG50K0nG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-2" value="Leer numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o6Lhu-sKrWzqQG50K0nG-4" target="o6Lhu-sKrWzqQG50K0nG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o6Lhu-sKrWzqQG50K0nG-4" target="o6Lhu-sKrWzqQG50K0nG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-4" value="numero % 10 == 4" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="400" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-6" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o6Lhu-sKrWzqQG50K0nG-11" target="o6Lhu-sKrWzqQG50K0nG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-11" value="Mostrar &quot;numero termina en 4&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-13" value="Si&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-14" value="Mostrar &quot;Numero no termina en 4&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-16" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="243" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Lhu-sKrWzqQG50K0nG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o6Lhu-sKrWzqQG50K0nG-14" target="o6Lhu-sKrWzqQG50K0nG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
